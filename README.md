@@ -1,6 +1,6 @@
 # Google for Developers — Swiss International Portfolio System
 
-> **Architected by Kunal Patel** (Senior Frontend Developer & Co-Founder @ Ornix Agency)  
+> **Architected by Kunal Patel** (Senior Fullstack Developer & Co-Founder @ Ornix Agency)  
 > *Engineered using Google Antigravity IDE, Gemini 3.6 Flash Agentic Workflows, and Stitch MCP.*
 
 ---
